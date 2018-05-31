@@ -66,7 +66,7 @@ INPUT  (note data may not be sequential like this however months are grouped)
 
 
 
-  WORK.PASS_2008_02 (January 2008 Passing Students) Obs=31
+  WORK.PASS_2008_01 (January 2008 Passing Students) Obs=31
 
    Obs           DT    STATUS
 
