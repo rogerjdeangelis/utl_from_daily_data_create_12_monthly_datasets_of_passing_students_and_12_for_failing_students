@@ -1,0 +1,2 @@
+# utl_from_daily_data_create_12_monthly_datasets_of_passing_students_and_12_for_failing_students
+utl_from_daily_data_create_12_monthly_datasets_of_passing_students_and_12_for_failing_students.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
