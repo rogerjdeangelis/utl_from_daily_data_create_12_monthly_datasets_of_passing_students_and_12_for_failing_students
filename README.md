@@ -72,7 +72,7 @@ utl_from_daily_data_create_12_monthly_datasets_of_passing_students_and_12_for_fa
 
 
 
-      WORK.PASS_2008_02 (January 2008 Passing Students) Obs=31
+      WORK.PASS_2008_01 (January 2008 Passing Students) Obs=31
 
        Obs           DT    STATUS
 
